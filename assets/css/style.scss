@@ -2,5 +2,6 @@
 ---
 
 @import 
- "h1 {font-size:5em; color: darkblue}"
+ "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize"
   ;
