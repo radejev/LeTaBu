@@ -1,5 +1,5 @@
 ---
-title: "Artikel 1"
+title: "Semesterstart auf Umwegen"
 date: 2023-02-18
 ---
 
