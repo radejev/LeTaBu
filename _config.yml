@@ -9,5 +9,5 @@ twitter_username:  # DO NOT include the @ character, or else the build will fail
 github_username:   # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-remote_theme: sparanoid/almace-scaffolding
+remote_theme: pages-themes/cayman@v0.2.0
 
