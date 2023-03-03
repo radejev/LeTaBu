@@ -21,4 +21,4 @@ Ich habe keine konkreten Erwartungen an die Vorlesung. Ich interessiere mich fü
 
 Aus diesem Grund steige ich - wenn auch leicht verspätet - offen und neugierig in dieses Semester ein.
 
-![Avatar](LeTaBu/assets/images/Test.JPG)
+![Avatar](/LeTaBu/assets/images/Test.JPG)
