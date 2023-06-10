@@ -17,7 +17,7 @@ Ich hatte ausserhalb der Hochschule noch nie mit Bibliotheks- und Archivsoftware
 
 ## Erwartungen
 
-Ich habe derzeit keine konkreten Erwartungen an die Vorlesung. Ich interessiere mich für Informatikthemen und da ich im Usability-Major bin, finde ich es durchaus spannend, Informatik mal aus einer anderen Perspektive als Front-End-Design zu bearbeiten. Situativ werde ich im Blog bezugnehmen auf UX- und Usability-Faktoren, die mir auffällig erscheinen. Da ich bei meiner Berufsausübung regelmässig auch mit dem Change-Management und Software-Projekten in Berührung bin, bringt mir vertieftes Know-How zu Archivsoftware auf jeden Fall auch in der Praxis etwas. Mit Bibliothekssoftware habe ich aktuell keine Berührungspunkte, aber dies kann sich in der Zukunft auch ändern.
+Ich habe derzeit keine konkreten Erwartungen an die Vorlesung. Ich interessiere mich für Informatikthemen und da ich im Usability-Major bin, finde ich es durchaus spannend, Informatik mal aus einer anderen Perspektive als Front-End-Design zu bearbeiten. Ich möchte diesen Blog nutzen, um die Inhalte in kurzen Zusammenfassungen ("Recaps") in eigenen Worten wiederzugeben sowie, wo sinnvoll, mit externen Quellen aus dem Internet ergänzen. Situativ werde ich im Blog bezugnehmen auf UX- und Usability-Faktoren, die mir auffällig erscheinen. Da ich bei meiner Berufsausübung regelmässig auch mit dem Change-Management und Software-Projekten in Berührung bin, bringt mir vertieftes Know-How zu Archivsoftware auf jeden Fall auch in der Praxis etwas. Mit Bibliothekssoftware habe ich aktuell keine Berührungspunkte, aber dies kann sich in der Zukunft auch ändern.
 
 Aus diesem Grund steige ich - wenn auch leicht verspätet - offen und neugierig in dieses Semester ein.
 
