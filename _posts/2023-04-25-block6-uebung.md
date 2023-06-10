@@ -19,7 +19,7 @@ Das Erfassen eines Repositorys war nicht sonderlich kompliziert und auch für ei
 In einem nächsten Schritt habe ich eine Resource und ein Object erfasst. Beides war auch relativ intuitiv und einfach, da wieder übersichtliche Formulare mit Reminder für Pflichteingaben zum Zug kommen. Teilweise war mir auch hier die Terminologie fremd und ich musste mit der Dokumentation arbeiten. Aber zuletzt wusste imehr oder weniger, welche Angaben erwartet werden.
 
 ## ATOM
-![ATOM_Screenshot](/LeTaBu/ssets/images/ATOM.png)
+![ATOM_Screenshot](/LeTaBu/assets/images/ATOM.png)
 Zuletzt habe ich noch die Demoversion die von ATOM getestet. Da es sich hierbei nicht um einen CodeSpace sondern um eine öffentlich zugängliche Demoversion handelte, die nicht moderiert wird, habe ich versucht nichts "kaputt" zu machen. Auch ATOM folgt der gängigen Struktur und ist entsprechend sehr intuitiv. Ich habe die Filter- und Suchfunktionen ausgiebig getestet und einige Objekte näher betrachtet.
 
 Im Grossen und Ganzen finde ich die vorgestellten Softwares bis hierhin allesamt gut. Im Austausch mit anderen Studierenden, insbesondere denen, die im Archiv- oder Bibliotheksbereich arbeiten, habe ich jedoch vernommen, dass diese Softwares nicht nur positive Gefühle hervorrufen. Ich denke, dass ich potenziell eine eher unkritische Sicht auf die Systeme habe, da ich nicht täglich damit arbeite und somit nicht ständig mit den Mankos konfrontiert bin.
